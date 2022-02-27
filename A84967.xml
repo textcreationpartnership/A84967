@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Full and true account of the behaviour, confession, &amp; execution of Mr. Richard Buttler, for a notorious fellony and burglary who executed at Tybourn, on Monday the 29th of July, 1695, after having been twice severally reprieved for the space of 17 days : with a brief relation of his extravagant life, and other remarkable matters and circumstances, that attended him to his untimely end, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84967</idno>
+            <idno type="STC">Wing F2302aA</idno>
+            <idno type="STC">ESTC R43625</idno>
+            <idno type="EEBO-CITATION">42475032</idno>
+            <idno type="OCLC">ocm 42475032</idno>
+            <idno type="VID">151142</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84967)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151142)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2246:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Full and true account of the behaviour, confession, &amp; execution of Mr. Richard Buttler, for a notorious fellony and burglary who executed at Tybourn, on Monday the 29th of July, 1695, after having been twice severally reprieved for the space of 17 days : with a brief relation of his extravagant life, and other remarkable matters and circumstances, that attended him to his untimely end, &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Williams ...,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing (2nd ed.).</note>
+                  <note>Imperfect: stained, cropped and worn, with loss of imprint and some text.</note>
+                  <note>Reproduction of original in: William Andrews Clark Memorial Library, University of California, Los Angeles.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Buttler, Richard, d. 1695.</term>
+               <term>Crime --  Great Britain.</term>
+               <term>Criminals --  Great Britain.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:151142:1" rendition="simple:additions"/>
+            <head>A Full and True ACCOUNT of the <hi>Behaviour, Confeſſion, &amp; Execution</hi> OF Mr. Richard Buttler, FOR A <hi>Notorious Fellony and Burglary.</hi>
+            </head>
+            <head type="sub">WHO WAS Executed at <hi>TYBO<g ref="char:V">Ʋ</g>RN,</hi> on <hi>Monday</hi> the <hi>29th.</hi> of <hi>July,</hi> 1695. after having been Twice ſeverally Reprieved, for the Space of 17. Days.</head>
+            <head type="sub">WITH A Brief RELATION of his Extravagant Life, and other Remarkable Mat<g ref="char:EOLhyphen"/>ters and Circumſtances, that Attended him to his untimely End, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <hi>RICHARD BUTLER,</hi> having been Tryed the laſt Seſſions at the <hi>Old-Baily,</hi> and found Guilty of a Notorious <hi>Fellony</hi> and <hi>Burglary;</hi> for that he with other his Accomplices, broke into the Houſe of <hi>Robert Weſt,</hi> of the Pariſh of <hi>Full<g ref="char:EOLhyphen"/>ham,</hi> in the County of <hi>Middleſex,</hi> on the <hi>4th.</hi> of <hi>April</hi> laſt, taking thence Plate, Rings, and wearing Apparel to a great Value, he, pur<g ref="char:EOLhyphen"/>ſuant to the ſaid Conviction, in the cloſe of the Seſſions, received Sentence of Death.</p>
+            <p>Being remanded to <hi>Newgate,</hi> he ſeemed not at all concernded at the deplorable Cir<g ref="char:EOLhyphen"/>cumſtances he lay under: But indeed own'd he had liv'd a wicked profligate Life, contra<g ref="char:EOLhyphen"/>ry to his better Knowledge and the good E<g ref="char:EOLhyphen"/>ducation his Parents had beſtowed on him, being early drawn away to follow bad Com<g ref="char:EOLhyphen"/>pany; eſpecially by Lewd Women, who in the end proved the worſt of his Enemies, for by their inſatiable Craving, he was forced to ſtill their Clamours, to undertake theſe late Evil Practices.</p>
+            <p>Being viſited by the Miniſter, and ſome of his Friends, they advized him to be Serious, and conſider his latter End, ſeeing he was <hi>Dead in Law,</hi> and the time of his Death as it were fixed to a certain Period: He found his Conſcience touched with ſome Remorſe, and, like <hi>Foelix,</hi> trembled at the <hi>Thoughts of Death and Judgment to come;</hi> but this conti<g ref="char:EOLhyphen"/>nued not long; for being left by them, he laboured to waſh away his Thoughts of what he was to ſuffer, if not of an Eternal State, with Liquors conveyed to him; yet this did little to the Stilling his Conſcience, which brought to his Remembrance his paſt Evil Courſes, and caſt him at certain times into Agonies of Mind, which ſo ſhook his Soul, that it little varied from a kind of <hi>Di<g ref="char:EOLhyphen"/>ſtraction;</hi> ſtriving continually to behave him<g ref="char:EOLhyphen"/>ſelf unconce<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nedly</p>
+            <p>On <hi>Friday</hi> the <hi>19th.</hi> of <hi>July,</hi> having before hand notice he muſt Die that Day, there ap<g ref="char:EOLhyphen"/>peared in him a <hi>Confuſion of Thoughts</hi> between <hi>Fear</hi> and <hi>Reſoluteneſs,</hi> and being delivered to the Sheriff's Officers, and put into a Cart with <hi>Edmund Allen,</hi> (who ſuffer'd for Poyſo<g ref="char:EOLhyphen"/>ning his Wife) he behaved himſelf very ex<g ref="char:EOLhyphen"/>travagantly, as a Perſon not prepared for a<g ref="char:EOLhyphen"/>nother World: but by the way a gracious Reprieve met him, and a longer time was allowed him to prepare himſelf for Death, at which he ſeemed not much concerned, however he was brought back to <hi>Newgate,</hi> and had ſeaſonable Advice given him to make uſe of the pretious Moments offered as it were by a wonderful Providence, to enable him the better to fit himſelf for an <hi>Eternitie,</hi> upon which depended his everlaſt<g ref="char:EOLhyphen"/>ing <hi>Happineſs</hi> or <hi>Miſery;</hi> but we do not find he was ſo careful about it as he ought to be.</p>
+            <p>On Monday, the <hi>29th.</hi> After 17 days Re<g ref="char:EOLhyphen"/>prieve he was again brought down and put into a Cart, appearing much Diſordered, telling the People <hi>He was now come again, to ſhow himſelf, deſiring their Company,</hi> &amp;c.</p>
+            <p>Being come to the Place of Execution, and tyed up, the Reverend Ordinary was earneſt in perſwading him to be Serious, and to conſider he was launching into Eternity and therefore ought to employ his Minutes to a good purpoſe; according whereunto he prayed with him; but <hi>Butler</hi> ſlighted it, profeſſing himſelf a <hi>Roman-Catholick,</hi> and that he would die in that Faith: He proteſt<g ref="char:EOLhyphen"/>ed he was Innocent of the Fact he was about to ſuffer for; but, being deſired to be circum<g ref="char:EOLhyphen"/>ſpect in his Words, for that the Evidence was plain againſt him, he Inveighed againſt his Accuſers vowing he never broke open a Houſe in his Life. The Ordinary deſired for to ſing a <hi>Pſalm</hi> with him but he refus'd; and ſo, after he had ſpent a ſmall time in pri-Prayer after his own method, the Cart was drove away and his Soul committedto <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <pb facs="tcp:151142:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
